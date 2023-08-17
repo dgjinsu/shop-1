@@ -1,7 +1,17 @@
-# DAU-COLONY web project
+# Dong-A Colony Web
 
-## 🗂 Summary
+## 📑 Summary
 > 코로나로 인한 3년간의 비대면 학교생활로 동아리 선후배 간의 교류가 크게 줄었습니다. 해킹에 관심이 있고 여러 활동을 하고싶어 들어왔지만 막상 네트워킹이 힘든 동아리원들을 위해 편하게 질문할 수 있고 소통할 수 있는 동아리 커뮤니티 사이트 입니다.
+
+<br/>
+
+## 🎯 주요 기능
+* 아래 그림처럼 할 예정
+![image](https://github.com/dgjinsu/shop-1/assets/97269799/0852d885-191d-495e-bbb1-8ffc00f2336d)
+
+<br/>
+
+## 🖥️ 서비스 소개
 
 <br/>
 
@@ -40,5 +50,12 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
 </div>
+
+<br/>
+
+## 🛠 Software Architecture
+![image](https://github.com/dgjinsu/shop-1/assets/97269799/07dc46f6-4cc0-40a6-84a5-c4970202f5ab)
+
+## 트러블 슈팅
 
 
